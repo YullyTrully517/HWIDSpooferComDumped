@@ -1,4 +1,4 @@
-# hwidspoofer.com-cracked
+
 hwidspoofer.com deobfuscated
 
 MD TOKENS IN DEOBFUSCATED EXE (EASY SHORTCUTS TO PARTS OF HIS SOURCE
