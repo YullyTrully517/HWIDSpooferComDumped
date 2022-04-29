@@ -9,8 +9,4 @@ Spoofer - 0x060032CB
 Deobfuscated Exe
 https://cdn.discordapp.com/attachments/926396180743716865/958104006515900446/yullyspoofed.exe
 
-stupid french monkey berkan shouldnt have used fucking enigma.
-
-lowkey was not going to leak this but he keeps talking shit so mine as well
-
 better spoofer altertive -> https://discord.gg/hwidwoofer
