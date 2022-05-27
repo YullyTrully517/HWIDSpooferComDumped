@@ -9,4 +9,4 @@ Spoofer - 0x060032CB
 Deobfuscated Exe
 https://cdn.discordapp.com/attachments/926396180743716865/958104006515900446/yullyspoofed.exe
 
-better spoofer altertive -> https://discord.gg/hwidwoofer
+better spoofer altertive -> https://discord.gg/hwidspoof
